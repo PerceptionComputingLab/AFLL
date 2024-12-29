@@ -31,7 +31,7 @@ results on the public ACNE04 dataset demonstrate that AFLL
 significantly outperforms existing methods, establishing a new
 state-of-the-art in acne severity grading.
 
-![](img\main.jpg)
+![](./img/main.jpg)
 
 # Using the code
 ***
