@@ -12,7 +12,7 @@ The code is stable while using Python 3.8.13, CUDA >= 11.6
 
 - Clone this repository
 ```bath
-git clone
+git clone https://github.com/PerceptionComputingLab/AFLL.git
 cd AFLL
 ```
 - To install all the dependencies using conda
