@@ -25,7 +25,6 @@ conda activate AFLL
 1. ACNE04 - <u>[Link (Original)](https://github.com/xpwu95/ldl)</u>
 
 # Using the Code for your dataset
-***
 ## Dataset Preparation
 The dataset consists of three folders: Images, train, and test. The Images folder contains all the images, which are split into training and test sets in an 8:2 ratio. Since this experiment is based on five-fold cross-validation, you need to prepare five different training and test sets in advance. Afterward, update the dataset paths in the code accordingly. If you prefer not to organize the dataset in this format, you can modify the data loader to meet your specific requirements.
 ```
